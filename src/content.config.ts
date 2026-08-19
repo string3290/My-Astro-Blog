@@ -1,20 +1,21 @@
-import { defineCollection } from 'astro:content';
 import { glob } from 'astro/loaders';
-import { z } from 'astro/zod';
+
+
+import { defineCollection, z } from 'astro:content';
 
 const blog = defineCollection({
-	// Load Markdown and MDX files in the `src/content/blog/` directory.
-	loader: glob({ base: './src/content/blog', pattern: '**/*.{md,mdx}' }),
-	// Type-check frontmatter using a schema
-	schema: ({ image }) =>
-		z.object({
-			title: z.string(),
-			description: z.string(),
-			// Transform string to Date object
-			pubDate: z.coerce.date(),
-			updatedDate: z.coerce.date().optional(),
-			heroImage: z.optional(image()),
-		}),
+  // ... 其他設定
+  schema: z.object({
+    title: z.string(),
+    // 1. 允許 description 為 optional (選填)，或提供預設值
+    description: z.string().optional().default(''), 
+    
+    // 2. 使用 z.coerce.date() 自動將各種格式轉換為標準 Date 物件
+    pubDate: z.coerce.date(), 
+    
+    // 其他欄位如 heroImage 等...
+  }),
 });
 
 export const collections = { blog };
+
