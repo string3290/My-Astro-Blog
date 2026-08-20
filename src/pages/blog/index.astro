@@ -10,6 +10,17 @@ import { SITE_DESCRIPTION, SITE_TITLE } from '../../consts';
 const posts = (await getCollection('blog')).sort(
 	(a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf(),
 );
+
+// 取得圖片字串（優先抓 heroImage，沒有就抓 featuredImage）
+const rawImg = heroImage || coverImage;
+let imgSrc = '';
+
+if (rawImg) {
+  const imgStr = typeof rawImg === 'object' && rawImg !== null && 'src' in rawImg 
+    ? (rawImg as any).src 
+    : String(rawImg);
+  imgSrc = imgStr.includes('/') ? imgStr : `/images/${imgStr}`;
+}
 ---
 
 <!doctype html>
@@ -95,21 +106,9 @@ const posts = (await getCollection('blog')).sort(
 						posts.map((post) => (
 							<li>
 								<a href={`/blog/${post.id}/`}>
-                                                                        {(() => {
-  // 取得圖片欄位（相容 heroImage 或 featuredImage）
-  const rawImg = post.data.heroImage || post.data.coverImage;
-  if (!rawImg) return null;
-
- // 1. 如果是 Astro 優化後的圖片物件，直接拿 src 屬性
-  const imgStr = typeof rawImg === 'object' && rawImg !== null && 'src' in rawImg 
-    ? (rawImg as any).src 
-    : String(rawImg);
-    
-  // 2. 判斷是否需要自動補上 /images/
-  const imgSrc = imgStr.includes('/') ? imgStr : `/images/${imgStr}`;
   
-  return <img width={720} height={360} src={imgSrc} alt={post.data.title} loading="lazy" />;
-})()}
+  {<img width={720} height={360} src={imgSrc} alt={post.data.title} loading="lazy" />}
+
 
 									<h4 class="title">{post.data.title}</h4>
 									<p class="date">
