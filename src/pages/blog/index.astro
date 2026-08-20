@@ -95,9 +95,17 @@ const posts = (await getCollection('blog')).sort(
 						posts.map((post) => (
 							<li>
 								<a href={`/blog/${post.id}/`}>
-									{(post.data.heroImage || post.data.coverImage) && (
-										<Image width={720} height={360} src={'/images//'post.data.heroImage || post.data.coverImage} alt="" />
-									)}
+                                                                        {(() => {
+  // 取得圖片欄位（相容 heroImage 或 featuredImage）
+  const img = post.data.heroImage || post.data.coverImage;
+  if (!img) return null;
+  
+  // 如果圖片路徑不包含斜線 '/'，代表只有檔名，自動補上 /images/
+  const imgSrc = img.includes('/') ? img : `/images/${img}`;
+  
+  return <img width={720} height={360} src={imgSrc} alt={post.data.title} loading="lazy" />;
+})()}
+
 									<h4 class="title">{post.data.title}</h4>
 									<p class="date">
 										<FormattedDate date={post.data.pubDate || post.data.date} />
