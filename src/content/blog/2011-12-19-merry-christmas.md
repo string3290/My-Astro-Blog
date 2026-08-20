@@ -14,6 +14,6 @@ coverImage: "the-occasion-of-christmas-4666860_1920.jpg"
 
 另外，現在不拘時的音樂專輯正在進行聖誕新年特惠活動，數位下載整張專輯只要1美元(約30元台幣)，CD專輯只要半價150元含運喔，只到2012年就會結束，要買要快喔！
 
-## ![](images/FenderAmp-icon-e1274059865844.png "FenderAmp-icon") 白色耶誕節(White Christmas) - 不拘時
+## ![](/images/FenderAmp-icon-e1274059865844.png "FenderAmp-icon") 白色耶誕節(White Christmas) - 不拘時
 
 https://www.youtube.com/watch?v=XM-EKiPkdo8

@@ -9,7 +9,7 @@ tags:
 coverImage: "competition-3913558_1280-e1568352429379.jpg"
 ---
 
-[![](images/nike.jpg "nike")](http://scottsu.net/wp-content/uploads/2010/05/nike.jpg)
+[![](/images/nike.jpg "nike")](http://scottsu.net/wp-content/uploads/2010/05/nike.jpg)
 
 這是為Nike Running Club的母親節活動「Run with Mom」所做的音樂，節奏輕快但溫馨，希望能和媽媽一起慢跑時更加感受彼此的關心。時間是已經過了，因為我擔心我先貼出來跟大家分享的話，怕會影響到他 們，不太好，所以現在才貼出來。
 

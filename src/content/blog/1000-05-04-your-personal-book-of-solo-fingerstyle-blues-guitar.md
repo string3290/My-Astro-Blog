@@ -32,7 +32,7 @@ https://youtu.be/Pi6vWcY9408
 
 ### **◎書籍內容說明**
 
-[![一個人的藍調指彈吉他攻略](images/3DCover1200X1518X72DPI-237x300.jpg "一個人的藍調指彈吉他攻略")](http://scottsu.net/wp-content/uploads/2016/05/3DCover1200X1518X72DPI.jpg)
+[![一個人的藍調指彈吉他攻略](/images/3DCover1200X1518X72DPI-237x300.jpg "一個人的藍調指彈吉他攻略")](http://scottsu.net/wp-content/uploads/2016/05/3DCover1200X1518X72DPI.jpg)
 
 ★ 大量12小節練習，75個範例音樂編寫與MP3下載，體驗更深刻的藍調之美
 

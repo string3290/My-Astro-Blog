@@ -25,6 +25,6 @@ coverImage: "lady-gaga-e1566702715914.jpg"
 
 我會把你們的影片貼到我的網頁裡，讓大家可以互相交流！獨樂樂不如眾樂樂呀！
 
-## ![](images/FenderAmp-icon-e1274059865844.png "FenderAmp-icon") 演奏MV
+## ![](/images/FenderAmp-icon-e1274059865844.png "FenderAmp-icon") 演奏MV
 
 https://www.youtube.com/watch?v=Tft6EnJIBIo

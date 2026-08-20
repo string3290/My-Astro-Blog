@@ -13,6 +13,6 @@ coverImage: "1327166706-2284438015-e1566702807882.jpg"
 
 這首曲子我加了點藍調Shuffle的感覺進去，希望給大家不同的風味，有興趣彈彈的吉他朋友歡迎到我的[FB專頁](http://www.facebook.com/scottmusic)按讚下載六線譜囉！
 
-## ![](images/FenderAmp-icon-e1274059865844.png "FenderAmp-icon") 演奏影片
+## ![](/images/FenderAmp-icon-e1274059865844.png "FenderAmp-icon") 演奏影片
 
 https://www.youtube.com/watch?v=fYoubz46QVs

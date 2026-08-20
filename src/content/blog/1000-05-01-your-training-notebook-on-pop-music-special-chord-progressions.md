@@ -30,7 +30,7 @@ coverImage: "book3cover-e1568353179829.jpg"
 
 **◎書籍內容說明**
 
-[![流行音樂的特殊和弦進行訓練筆記](images/3DCover1200X1498X72DPI-240x300.jpg "流行音樂的特殊和弦進行訓練筆記")](http://scottsu.net/wp-content/uploads/2015/05/3DCover1200X1498X72DPI.jpg)
+[![流行音樂的特殊和弦進行訓練筆記](/images/3DCover1200X1498X72DPI-240x300.jpg "流行音樂的特殊和弦進行訓練筆記")](http://scottsu.net/wp-content/uploads/2015/05/3DCover1200X1498X72DPI.jpg)
 
 ★ 嚴選經典，了解獨特
 

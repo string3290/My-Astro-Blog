@@ -18,7 +18,7 @@ coverImage: "全封-e1568355453358.jpg"
 
 + [GooglePlay](http://play.google.com/store/books/details?id=GdH8AAAAQBAJ) + [Pubu](http://www.pubu.com.tw/ebook/25156) + [TAAZE讀冊](http://www.taaze.tw/sing.html?pid=14100006003) + [Hyread](http://ebook.hyread.com.tw/bookDetail.jsp?id=36622&openNode=I) + [myBook](http://mybook.taiwanmobile.com/ebookProfile.mvc?content_id=STC01001000002&utm_source=PCStore&utm_medium=banner&utm_campaign=JunE06_B1)
 
-[![](images/網友好評.png)](https://tw.scottsu.net/wp-content/uploads/2019/08/網友好評.png)
+[![](/images/網友好評.png)](https://tw.scottsu.net/wp-content/uploads/2019/08/網友好評.png)
 
 <目前 Google Play 圖書上的評等為 4.2 顆星，英文版為 4.4 顆星>
 
@@ -32,7 +32,7 @@ https://youtu.be/x-2yupFAg\_g
 
 **◎書籍內容說明**
 
-[![](images/3DCover186x250-compressor.jpg)](https://tw.scottsu.net/wp-content/uploads/2013/09/3DCover186x250-compressor.jpg)
+[![](/images/3DCover186x250-compressor.jpg)](https://tw.scottsu.net/wp-content/uploads/2013/09/3DCover186x250-compressor.jpg)
 
 背音階指型好煩？本手冊利用最適合記憶的「圖像記憶法」
 

@@ -18,17 +18,17 @@ coverImage: "PL_PID_FAD80BEE-4FDA-4784-A2AB-01DF381C2997-e1568356251860.jpg"
 
 支架的部份原本是想找一個大的落地鐵架，不過想想那一定很佔空間又不便宜，用繩索懸吊的話中間又容易因重量凹陷，兩邊要找可以綁的支撐點也不容易，就決定找個長的棒子或是金屬條，以兩邊的窗框和書架來擺架應該也可以，就到了特力屋，找到了浴室掛簾使用的伸縮棒，最長可以拉到350cm，是相當足夠而且也算便宜了。接下來就是大片的布，這就有點困難，因為布真的會比較貴，原本想找素一點的窗簾布或是浴簾，不是太貴就是不適合，後來只好趁父親來時向父親詢問大片布的事，父親說他以前的公司那邊一堆沒在用的大片布，就跟著父親去那邊看，的確是可以用，就搬回家了，哈，這樣就搞定囉～
 
-[![吉他影片背景2](images/PL_PID_20DCA8B2-8695-4F07-ABA8-512FE1F63974-600x450.jpg "吉他影片背景2")](http://scottsu.net/wp-content/uploads/2012/01/PL_PID_20DCA8B2-8695-4F07-ABA8-512FE1F63974.jpg)
+[![吉他影片背景2](/images/PL_PID_20DCA8B2-8695-4F07-ABA8-512FE1F63974-600x450.jpg "吉他影片背景2")](http://scottsu.net/wp-content/uploads/2012/01/PL_PID_20DCA8B2-8695-4F07-ABA8-512FE1F63974.jpg)
 
 背景搞定後，再把羅技的網路攝影機架起來，就可以開始新年的新計畫囉！
 
 首先，就先把我改編在吉他上演奏的憤怒鳥(Angry Birds)主題曲拍攝了一段演奏影片，希望不會讓大家越看越憤怒喔！ :lol:
 
-## ![](images/FenderAmp-icon-e1274059865844.png "FenderAmp-icon") 憤怒鳥主題音樂吉他版
+## ![](/images/FenderAmp-icon-e1274059865844.png "FenderAmp-icon") 憤怒鳥主題音樂吉他版
 
 https://www.youtube.com/watch?v=aHLyLs55c50
 
-## ![](images/FenderAmp-icon-e1274059865844.png "FenderAmp-icon") 相關資訊
+## ![](/images/FenderAmp-icon-e1274059865844.png "FenderAmp-icon") 相關資訊
 
 這個版本是不拘時自己重新編曲和演奏的，也有在FB專頁提供吉他六線譜讓大家下載喔！
 

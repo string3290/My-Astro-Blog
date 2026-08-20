@@ -30,7 +30,7 @@ coverImage: "20180409改-吉他印刷檔案交稿-01-e1568355568713.jpg"
 
 **◎書籍說明**
 
-[![](images/3DCover-186x250-72dpi-compressor.jpg)](https://tw.scottsu.net/wp-content/uploads/2014/02/3DCover-186x250-72dpi-compressor.jpg)
+[![](/images/3DCover-186x250-72dpi-compressor.jpg)](https://tw.scottsu.net/wp-content/uploads/2014/02/3DCover-186x250-72dpi-compressor.jpg)
 
 **★ 從零開始，超級初學者適用**
 

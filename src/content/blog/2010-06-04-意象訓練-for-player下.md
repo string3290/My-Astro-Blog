@@ -10,25 +10,25 @@ coverImage: "technology-784046_1280-e1568355110184.jpg"
 
 很久以前提過了[樂手的意象訓練](https://tw.scottsu.net/%e6%84%8f%e8%b1%a1%e8%a8%93%e7%b7%b4-for-player/)，有稍作了些說明，網路上也有其他相關文章，現在我們來討論一下進行的方式。
 
-## [![](images/FenderAmp-icon-e1274059865844.png "FenderAmp-icon")](http://scottsu.net/wp-content/uploads/2010/05/FenderAmp-icon-e1274059865844.png) 前置
+## [![](/images/FenderAmp-icon-e1274059865844.png "FenderAmp-icon")](http://scottsu.net/wp-content/uploads/2010/05/FenderAmp-icon-e1274059865844.png) 前置
 
 既然來自運動心理學的一環，可想而知這主要是訓練心理素質的部份。在競爭激烈的運動比賽中，球員的心理素質往往是比賽關鍵時能否順利得分的重要因素之一，心裡有點緊張但不會過頭破壞了表現一般來說是比較好的，同理樂手在台上的表現與臨場反應也是一樣的。
 
 訓練時最好可以到個安靜的地方，閉起眼睛，才不會讓周遭的環境影響到訓練的專心度。試想當你在想像大舞台上演奏時，突然有人大聲說話甚至大喇叭聲，這「白日夢」還做的下去嗎？
 
-## [![](images/FenderAmp-icon-e1274059865844.png "FenderAmp-icon")](http://scottsu.net/wp-content/uploads/2010/05/FenderAmp-icon-e1274059865844.png) 情境
+## [![](/images/FenderAmp-icon-e1274059865844.png "FenderAmp-icon")](http://scottsu.net/wp-content/uploads/2010/05/FenderAmp-icon-e1274059865844.png) 情境
 
 既然是想像模擬演出環境，當然除了想像自己身在舞台上外，還要想像前方有一大群觀眾，陽光普照或是燈光投射，舞台上的設備，麥克風，監聽喇叭，器材，一起演出的人員等等，想像演奏曲子時，你的眼睛看到的手在指板上移動按弦的畫面，到哪裡要腳踩效果器切換的畫面，總之就是想像你的視角看到的演奏畫面流程。
 
 如果已經知道要演出了，會覺得緊張，也大概知道場地的狀況，也可以先以該場的畫面來想像，幫助緩和緊張的情緒不要過頭。整個流程在腦中跑過也可以幫助提醒可能會忘的事情。
 
-## [![](images/FenderAmp-icon-e1274059865844.png "FenderAmp-icon")](http://scottsu.net/wp-content/uploads/2010/05/FenderAmp-icon-e1274059865844.png) 額外的重點
+## [![](/images/FenderAmp-icon-e1274059865844.png "FenderAmp-icon")](http://scottsu.net/wp-content/uploads/2010/05/FenderAmp-icon-e1274059865844.png) 額外的重點
 
 也許你試了覺得效用可能不大，那可能你忽略的關於「體驗」這件事。
 
 我不知道運動心理學有沒有提到，也不知道其他提到意象訓練的文章中有沒有講到，但這部份說法我是根據曾經學過的有效的記憶法來體會到加入這個重點，是可以增加意象訓練的效果。我大致說明一下那個記憶法的方式。（我是忘了那個名字了 :lol: ）
 
-## [![](images/FenderAmp-icon-e1274059865844.png "FenderAmp-icon")](http://scottsu.net/wp-content/uploads/2010/05/FenderAmp-icon-e1274059865844.png) 記憶法說明
+## [![](/images/FenderAmp-icon-e1274059865844.png "FenderAmp-icon")](http://scottsu.net/wp-content/uploads/2010/05/FenderAmp-icon-e1274059865844.png) 記憶法說明
 
 一般來說，我們平常在記東西時，都會在心裡默念，然後用腦袋背下來，但是當你過一陣子想要把剛背的東西拿出來時，大概都已經忘的差不多了。比如說要買東西時，如果沒有用小抄，用腦袋記，可能在家裡已經覺得都記起來了，可是到了賣場，總是會漏掉幾樣。
 
@@ -42,6 +42,6 @@ coverImage: "technology-784046_1280-e1568355110184.jpg"
 
 當然身體的感覺不是只有痛覺，痛也有很多種，你要在不同部位分配想像不同的感覺體驗和事件，才比較不會混淆哪裡是哪個東西。這方法當初試過，的確在記些東西來說是很方便有用的，有興趣可以試試，這裡我只是大略說明。
 
-## [![](images/FenderAmp-icon-e1274059865844.png "FenderAmp-icon")](http://scottsu.net/wp-content/uploads/2010/05/FenderAmp-icon-e1274059865844.png) 意象的加強
+## [![](/images/FenderAmp-icon-e1274059865844.png "FenderAmp-icon")](http://scottsu.net/wp-content/uploads/2010/05/FenderAmp-icon-e1274059865844.png) 意象的加強
 
 既然身體的體驗可以幫助記憶畫面的效果，那用來加強意象訓練的效果也是可以的，因為意象也是想像臨場的畫面來作訓練。加強的部份就是，當你在想像演奏畫面時，你也要去想像身體上的感覺。比如手指按到弦的感覺，撥弦的觸感，台下觀眾都在屏息注視你的寧靜般毛骨聳然感，燈光打在臉上的一點熱熱的感覺等等。加強去想像這樣的感覺，讓你的身體記得後，在演出時，似曾相識的體驗就可以幫助身體比較不會過於緊張了！而加上這樣的記憶方式，對於歌曲的和絃進行記憶也會有幫助！
