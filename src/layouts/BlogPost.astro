@@ -61,10 +61,16 @@ const { title, description, pubDate, updatedDate, heroImage, coverImage, date } 
 			<article>
 				<div class="hero-image">
 {(() => {
-  const img = heroImage || coverImage;
-  if (!img) return null;
+  const rawImg = heroImage || coverImage;
+  if (!rawImg) return null;
   
-  const imgSrc = img.includes('/') ? img : `/images/${img}`;
+// 1. 如果是 Astro 優化後的圖片物件，直接拿 src 屬性
+  const imgStr = typeof rawImg === 'object' && rawImg !== null && 'src' in rawImg 
+    ? (rawImg as any).src 
+    : String(rawImg);
+
+// 2. 判斷是否需要自動補上 /images/
+  const imgSrc = imgStr.includes('/') ? imgStr : `/images/${imgStr}`;
   
   return <img width={1020} height={510} src={imgSrc} alt={title} />;
 })()}
@@ -72,7 +78,7 @@ const { title, description, pubDate, updatedDate, heroImage, coverImage, date } 
 				<div class="prose">
 					<div class="title">
 						<div class="date">
-							<FormattedDate date={date} />
+							<FormattedDate date={pubDate} />
 							{
 								updatedDate && (
 									<div class="last-updated-on">
