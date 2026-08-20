@@ -9,7 +9,7 @@ const blog = defineCollection({
     description: z.string().optional().default(''),
     // 自動將各種文字或 1000 年這種異常年份轉為合法日期，避免編譯中斷
     pubDate: z.coerce.date().optional().default(() => new Date()),
-    heroImage: z.string().optional(),
+    heroImage: image().or(z.string()).optional(), // 允許圖片物件或字串網址
   }),
 });
 
