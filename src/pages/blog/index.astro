@@ -97,7 +97,7 @@ const posts = (await getCollection('blog')).sort(
 								<a href={`/blog/${post.id}/`}>
                                                                         {(() => {
   // 取得圖片欄位（相容 heroImage 或 featuredImage）
-  const rawImg = post.data.heroImage || post.data.coverImage;
+  const rawImg = post.data.coverImage;
   if (!rawImg) return null;
 
  // 1. 如果是 Astro 優化後的圖片物件，直接拿 src 屬性
@@ -113,7 +113,7 @@ const posts = (await getCollection('blog')).sort(
 
 									<h4 class="title">{post.data.title}</h4>
 									<p class="date">
-										<FormattedDate date={post.data.pubDate || post.data.date} />
+										<FormattedDate date={post.data.date} />
 									</p>
 								</a>
 							</li>
