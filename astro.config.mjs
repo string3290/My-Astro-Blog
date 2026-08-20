@@ -6,6 +6,7 @@ export default defineConfig({
   image: {
     domains: ['tw.scottsu.net'], // 允許保留原本 WordPress 的圖片外鏈
   },
+  site: 'https://tw.scottsu.net',
   experimental: {
     // 若特定圖片遺失，不讓 build 直接潰敗
   }
